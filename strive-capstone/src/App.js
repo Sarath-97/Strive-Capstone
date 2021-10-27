@@ -1,4 +1,4 @@
-import "./App.css";
+import "./index.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import MyNavbar from './Components/MyNavbar.jsx'
 import { Route, BrowserRouter as Router } from "react-router-dom";
